@@ -19,3 +19,4 @@ public class Patient {
     private boolean malade;
     private int score;
 }
+
